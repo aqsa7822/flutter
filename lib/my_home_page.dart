@@ -484,7 +484,7 @@ class MyHomePage extends StatelessWidget {
                                 const Align(
                                   alignment: Alignment.bottomCenter,
                                   child: Padding(
-                                    padding: EdgeInsets.only(top: 200),
+                                    padding: EdgeInsets.only(top: 100),
                                     child: Icon(
                                       Icons.check_circle,
                                       color: Colors.redAccent,
